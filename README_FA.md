@@ -16,13 +16,13 @@
 
 شما می‌توانید مستقیماً از طریق این URL به آخرین پیکربندی‌ها دسترسی پیدا کنید:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
+https://raw.githubusercontent.com/ialihastam/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt
 ```
 این پروژه دارای قابلیت‌های پیشرفته‌ای برای مدیریت کانفیگ‌های پروکسی است. کانفیگ‌های دریافت شده به صورت خودکار به فرمت Sing-box تبدیل می‌شوند و در یک فایل JSON جداگانه ذخیره می‌شوند. برای هر سرور، موقعیت جغرافیایی آن با استفاده از متد get location شناسایی شده و به صورت خودکار ایموجی پرچم و نام کشور مربوطه به تگ آن اضافه می‌شود. این ویژگی‌ها باعث می‌شود مدیریت و استفاده از پروکسی‌ها برای کاربران بسیار ساده‌تر شود.
 
 لینک اشتراک Sing-box:
 ```
-https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
+https://raw.githubusercontent.com/ialihastam/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json
 ```
 
 ## عملکرد کانال‌ها و URL‌ها
@@ -37,14 +37,14 @@ https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/head
 </div>
 
 ### گزارش تفصیلی
-📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/ialihastam/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
 
 > **نکته مهم برای مخازن فورک شده**:  
 اگر این مخزن را فورک می‌کنید، حتماً `USERNAME` را در لینک بالا با نام کاربری گیت‌هاب خود جایگزین کنید. این کار اطمینان می‌دهد که لینک به داشبورد تعاملی مخزن شما به جای داشبورد پروژه اصلی هدایت می‌شود. برای این کار:
 1. فایل `README.md` را در مخزن فورک شده خود ویرایش کنید.
 2. این خط را پیدا کنید:
    ```markdown
-   📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/USERNAME/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+   📊 [مشاهده داشبورد تعاملی کامل](https://htmlpreview.github.io/?https://github.com/ialihastam/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
    ```
 3. `USERNAME` را با نام کاربری گیت‌هاب خود جایگزین کنید.
 4. تغییرات را ثبت کنید.
